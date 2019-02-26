@@ -1,5 +1,5 @@
 function countdownTimer(){
-    var endDate = new Date('2018-12-25 00:00:00');
+    var endDate = new Date('2019-12-25 00:00:00');
 
     //defining the lengths of time differences
     var second = 1000; var minute = second*60; var hour = minute*60; var day = hour*24; 
